@@ -1,4 +1,4 @@
-# gulp-rename
+# gulp-flow-jsdoc
 
 gulp-flow-jsdoc is a [gulp](https://github.com/wearefractal/gulp) plugin that wraps [flow-jsdoc](https://github.com/Kegsay/flow-jsdoc).
 
